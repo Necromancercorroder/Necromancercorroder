@@ -4,7 +4,7 @@
 
 **Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-## Header
+
 > Editing this section in the inspector.
 Hi, I'm **Necromancercorroder**. This README is tuned for **founder** with a Neon visual system.
 <p align="center">
@@ -14,7 +14,7 @@ Hi, I'm **Necromancercorroder**. This README is tuned for **founder** with a Neo
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Necromancercorroder&theme=neon&mode=light" />
@@ -22,7 +22,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Necromancercorroder&theme=neon&mode=light" />
@@ -30,7 +30,7 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Projects
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Necromancercorroder&theme=neon&mode=light" />
@@ -38,7 +38,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Necromancercorroder&theme=neon&mode=light" />
@@ -46,9 +46,9 @@ GitSkins stat widgets will use the **Neon** theme.
   </picture>
 </p>
 ## Heatmap
-Animated year-long contribution calendar.
+
 ## Connect
-Contact and social links will appear here.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Necromancercorroder&theme=neon&mode=light" />
